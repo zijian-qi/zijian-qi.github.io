@@ -6,7 +6,7 @@ main_nav: true
 ---
 <h3>Instructor</h3>
 <ul>
-  <li><h4>Intermediate Microeconmics</h4></li>
+  <li><h4>Intermediate Microeconomics</h4></li>
     <p><i>Michigan State University</i></p>
     <p>Summer 2018</p>
 </ul>

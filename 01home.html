@@ -1,0 +1,37 @@
+---
+
+layout: default
+title: Home
+permalink: /home/
+main_nav: true
+---
+<div class="home">
+
+<div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
+  <div class="scrim {% if site.cover %}has-cover{% endif %}">
+    <header class="site-header">
+		<img src="{{site.baseurl}}/assets/portrait.jpg" alt="Portrait" style="width:250px;height:250px;">
+      <h1 class="title">{{ site.title }}</h1>
+	  <!-- {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %} -->
+    </header>
+  </div>
+</div>
+
+<div class="wrapper">
+<ul class="post-list">
+	<p style="font-size:150%;">
+	Welcome to Zijian Qi's personal website. 
+	</p>
+	<p style="font-size:150%;">
+	Zijian Qi is a Ph.D. candidate in Department of Economics at Michigan State University. He is passionate about micro theory and applied micro. He anticipates graduating in 2022.
+	</p>
+	
+	
+	
+	
+		
+	
+</ul>
+
+</div>
+</div>
