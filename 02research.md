@@ -4,9 +4,11 @@ title: Research
 permalink: /research/
 main_nav: true
 ---
-<h2>Working Papers</h2>
+<h2>Job Market Paper</h2>
 <ul>
-  <li><h4><i>Optimal Job Design and Information Elicitation</i></h4></li>
+  <li><h4><i>Optimal Job Design and Information Elicitation</i></h4>
+  <p>with <i><b>Arijit Mukherjee</b></i> and <i><b>Luis Vasconcelos</b></i></p></li>
+  
   <p><b>Abstract: </b>
 Managers often rely on their subordinates for local information that aids
 decision-making but cannot commit to a decision rule. When the firm and the
@@ -25,7 +27,7 @@ worker. Individual assignment is optimal when the performance measure is
 well-aligned, but team is optimal when the measure is noisy and the workers
 are highly likely to be informed about the local conditions.   </p></ul>
 Link to the paper can be found [here]({{ site.url }}/assets/jobdesign.pdf).
-
+<h2>Working Papers</h2>
 <ul>
 <li><h4><i>Assimilation with Different Working Skill Acquisition</i></h4></li>
 <p> <b>Abstract: </b>Discrimination have different forms across places with variety of population composition. 
