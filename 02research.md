@@ -30,27 +30,17 @@ Link to the paper can be found [here]({{ site.url }}/assets/jobdesign.pdf).
 <h2>Working Papers</h2>
 <ul>
 <li><h4><i>Assimilation with Different Working Skill Acquisition</i></h4></li>
-<p> <b>Abstract: </b>Discrimination have different forms across places with variety of population composition. 
-  We construct a two-stage assimilation model to analyze the discrimination level in groups with different discount factors. 
-  I have three main results: 
-  First, there always exist an equilibrium for any discount factors and minority group size, the equilibrium will have a on-path action profile with a cutoff rule; 
-  second, as group size increase, both discrimination level and the ability cutoff will increase; 
-  third, when discount factors varies across different regimes, the effect is not monotonic.</p></ul>
+<p> <b>Abstract: </b>Discrimination has different forms across places with a variety of population compositions. We construct a two-stage assimilation model to analyze the discrimination level in groups with different discount factors. I have three main results: First, there always exists an equilibrium for any discount factors and minority group size, the equilibrium will have an on-path action profile with a cutoff rule; second, as group size increases, both discrimination level and the ability cutoff will increase; third, when discount factors vary across different regimes, the effect is not monotonic.</p></ul>
 Link to the paper can be found [here]({{ site.url }}/assets/assimilation.pdf).
 
 
 <h2>Work In Progress</h2>
 <ul>
 <li><h4><i>The market of good with multiple attributes</i></h4></li>
-<p> <b>Abstract: </b>In many cases, products have multiple attributes and but consumers can only leanr the overall quality but not quality of each attribute. 
-In this article, we explore the following question: assuming that the previous consumers always file sincere report, do the future consumers learn faster or slower when the product has more
-attributes? I find that when the degree of variation in the seller’s (ex-ante) types is
-high, consumers will learn faster when the product has more attributes than fewer attributes.
-On the other hand, when the degree of variation in seller’s (ex-ante) types is low, the opposite
-is true.</p></ul>
+<p> <b>Abstract: </b> In many cases, products have multiple attributes and but consumers can only learn the overall quality but not the quality of each attribute. In this article, we explore the following question: assuming that the previous consumers always file a sincere report, do the future consumers learn faster or slower when the product has more attributes? I find that when the degree of variation in the seller’s (ex-ante) types is high, consumers will learn faster when the product has more attributes than fewer attributes. On the other hand, when the degree of variation in seller’s (ex-ante) types is low, the opposite is true.</p></ul>
 
 
 <h2>Working Notes</h2>
 <ul>
 <li><h4><i>Contest with Valuation associated with Population Uncertainty</i></h4></li>
-<p> <b>Abstract: </b>This paper examines contests with population uncertainty and the value of the prize depend on the number of players. I find that when the value of the prize increases as the number of players increases, the players tend to exert more effort, and when the value of prize decreases as the number of players increase, the players tend to exert less effort.</p></ul>
+<p> <b>Abstract: </b>This paper examines contests with population uncertainty and the value of the prize depends on the number of players. I find that when the value of the prize increases as the number of players increases, the players tend to exert more effort, and when the value of the prize decreases as the number of players increase, the players tend to exert less effort.</p></ul>
