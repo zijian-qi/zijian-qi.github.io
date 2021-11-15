@@ -76,21 +76,19 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-
-
-  - name: Facebook
+  - name: LinkedIn
+    icon: linkedin
+    username: zijianqi
+    url: https://www.linkedin.com/in/zqi
+    desc: Connect with me on LinkedIn
+    share: true
+    
+ - name: Facebook
     icon: facebook
     username: zijianqi
     url: ""
     desc: Friend me on Facebook
-    share: true
-
-  - name: LinkedIn
-    icon: linkedin
-    username: zijianqi
-    url: www.linkedin.com/in/zqi
-    desc: Connect with me on LinkedIn
-    share: true
+    share: true 
     
    - name: GitHub
     icon: github
