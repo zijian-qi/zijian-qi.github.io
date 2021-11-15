@@ -76,12 +76,7 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  - name: Twitter
-    icon: twitter
-    username: ZijianQi
-    url: https://twitter.com/ZijianQi
-    desc: Follow me on Twitter
-    share: true
+
 
   - name: Facebook
     icon: facebook
@@ -90,18 +85,25 @@ social:
     desc: Friend me on Facebook
     share: true
 
-  - name: GitHub
+  - name: LinkedIn
+    icon: linkedin
+    username: zijianqi
+    url: www.linkedin.com/in/zqi
+    desc: Connect with me on LinkedIn
+    share: true
+    
+    - name: GitHub
     icon: github
     username: zijianqi
     url: https://github.com/zijianqi
     desc: Fork me on GitHub
     share: false
-
-  - name: LinkedIn
-    icon: linkedin
-    username: zijianqi
-    url: https://www.linkedin.com/pub/zijianqi
-    desc: Connect with me on LinkedIn
+    
+    - name: Twitter
+    icon: twitter
+    username: ZijianQi
+    url: https://twitter.com/ZijianQi
+    desc: Follow me on Twitter
     share: true
 
   - name: Google+
