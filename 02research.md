@@ -37,7 +37,7 @@ Link to the paper can be found [here]({{ site.url }}/assets/assimilation.pdf).
 <h2>Work In Progress</h2>
 <ul>
 <li><h4><i>The Market for Goods with Multiple Attributes</i></h4></li>
-<p> <b>Abstract: </b> In many cases, products have multiple attributes and but consumers can only learn the overall quality but not the quality of each attribute. In this article, we explore the following question: assuming that the previous consumers always file a sincere report, do the future consumers learn faster or slower when the product has more attributes? I find that when the degree of variation in the seller’s (ex-ante) types is high, consumers will learn faster when the product has more attributes than fewer attributes. On the other hand, when the degree of variation in seller’s (ex-ante) types is low, the opposite is true.</p></ul>
+<p> <b>Abstract: </b> In many cases, products have multiple attributes, and consumers can only learn the overall quality but not the quality of each attribute. In this article, we explore the following question: assuming that the previous consumers always file a sincere report, do the future consumers learn faster or slower when the product has more attributes? I find that when the degree of variation in the seller’s (ex-ante) types is high, consumers will learn faster when the product has more attributes than fewer attributes. On the other hand, when the degree of variation in seller’s (ex-ante) types is low, the opposite is true.</p></ul>
 
 
 <h2>Working Notes</h2>
