@@ -111,10 +111,10 @@ author:
     Department of Agricultural and Applied Economics \ \n
     Texas Tech University "
   location         : # "Lubbock, TX"
-  email            : "yuyuan.che@ttu.edu"
+  email            : # "yuyuan.che@ttu.edu"
   links:
     - label: "yuyuan.che@ttu.edu"
-      icon: # "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:yuyuan.che@ttu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
