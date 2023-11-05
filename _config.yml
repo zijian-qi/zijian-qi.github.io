@@ -110,12 +110,12 @@ author:
     Assistant Professor \ \n
     Department of Agricultural and Applied Economics \ \n
     Texas Tech University "
-  location         : "Lubbock, TX"
+  location         : # "Lubbock, TX"
   email            : "yuyuan.che@ttu.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+    - label: "yuyuan.che@ttu.edu"
+      icon: # "fas fa-fw fa-envelope-square"
+      url: "mailto:yuyuan.che@ttu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -131,7 +131,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
+    - label: "Google Scholar"
+      icon: "fab fa-google"
+      url: "https://scholar.google.com/citations?user=o8QxH30AAAAJ&hl=en&oi=ao"
+      
 # Site Footer
 footer:
   links:
@@ -154,8 +157,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
     - label: "Google Scholar"
-      icon: google-scholar
-      icon_pack: ai
+      icon: "fab fa-google"
       url: "https://scholar.google.com/citations?user=o8QxH30AAAAJ&hl=en&oi=ao"
 
 # Reading Files
