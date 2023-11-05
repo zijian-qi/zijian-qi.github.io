@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /home/
 ---
 
 Welcome to my website! I am an assistant professor in the [Department of Agricultural and Applied Economics](https://www.depts.ttu.edu/aaec/) at [Texas Tech University](https://www.ttu.edu/).
