@@ -2,6 +2,7 @@
 permalink: /cv/
 title: "CV"
 layout: single
+classes: wide
 ---
 <div style="width: 100%; height:700">
 <iframe src="/assets/CV/CV_Che_08_2023.pdf" width="100%" height="700">
