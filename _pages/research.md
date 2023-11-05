@@ -8,7 +8,7 @@ title: "Research"
 
 ## Peer-reviewed Publications
 
-1. Che, Y., H. Feng, and D. A. Hennessy. 2023. Will Adoption Occur if a Practice is Win-Win for Profit and the Environment? An Application to a Rancher’s Grazing Practice Choices. *Ecological Economics* 209: 107826. [Link](https://doi.org/10.1016/j.ecolecon.2023.1078267)
+1. Che, Y., H. Feng, and D. A. Hennessy. 2023. Will Adoption Occur if a Practice is Win-Win for Profit and the Environment? An Application to a Rancher’s Grazing Practice Choices. *Ecological Economics* 209: 107826. [Link](https://doi.org/10.1016/j.ecolecon.2023.107826)
 
 1. Lu, X., Y. Che, R. M. Rejesus, B. K. Goodwin, S. K. Ghosh, and J. Paudel. 2023. Unintended Environmental Benefits of Crop Insurance: Nitrogen and Phosphorus in Water Bodies. Ecological Economics 204: 107657. [Link](https://doi.org/10.1016/j.ecolecon.2022.107657) 
 
