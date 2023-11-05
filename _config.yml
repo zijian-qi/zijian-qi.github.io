@@ -20,7 +20,7 @@ title                    : "Yuyuan Che"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yuyuan Che"
-description              : "An amazing website."
+description              : "Personal website of Yuyuan Che"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -111,7 +111,7 @@ author:
     Department of Agricultural and Applied Economics \ \n
     Texas Tech University "
   location         : "Lubbock, TX"
-  email            : "yuyuan.che [at] ttu.edu"
+  email            : "yuyuan.che@ttu.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -153,7 +153,10 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
+    - label: "Instagram"
+      icon: google-scholar
+      icon_pack: ai
+      # url: "https://scholar.google.com/citations?user=o8QxH30AAAAJ&hl=en&oi=ao"
 
 # Reading Files
 include:
