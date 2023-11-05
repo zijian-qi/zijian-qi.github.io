@@ -7,7 +7,8 @@ title: "Research"
 ---
 
 ## Peer-reviewed Publications
-Che, Y., H. Feng, and D. A. Hennessy. 2023. Will Adoption Occur if a Practice is Win-Win for Profit and the Environment? An Application to a Rancher’s Grazing Practice Choices. Ecological Economics 209: 107826. Link
+<ol>
+<li>Che, Y., H. Feng, and D. A. Hennessy. 2023. Will Adoption Occur if a Practice is Win-Win for Profit and the Environment? An Application to a Rancher’s Grazing Practice Choices. Ecological Economics 209: 107826. Link </li>
 
 Lu, X., Y. Che, R. M. Rejesus, B. K. Goodwin, S. K. Ghosh, and J. Paudel. 2023. Unintended Environmental Benefits of Crop Insurance: Nitrogen and Phosphorus in Water Bodies. Ecological Economics 204: 107657. Link
 
@@ -25,6 +26,7 @@ Wang, T., H. Jin, U. Kreuter, H. Feng, D. A. Hennessy, R. Teague, and Y. Che. 20
 
 Yu, Y., H. Li, Y. Che, and Q. Zheng. 2017. The Price Evolution of Wind Turbines in China: A Study Based on the Modified Multi-factor Learning Curve. Renewable Energy 103: 522-536. Link
 
+<\ol>
 ## Working Papers
 <b>Seeding Rate Responses to Markets, Resources and Technologies. Yuyuan Che</b>, David A. Hennessy, and Hongli Feng. 
 
