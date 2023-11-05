@@ -153,10 +153,10 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-    - label: "Instagram"
+    - label: "Google Scholar"
       icon: google-scholar
       icon_pack: ai
-      # url: "https://scholar.google.com/citations?user=o8QxH30AAAAJ&hl=en&oi=ao"
+      url: "https://scholar.google.com/citations?user=o8QxH30AAAAJ&hl=en&oi=ao"
 
 # Reading Files
 include:
