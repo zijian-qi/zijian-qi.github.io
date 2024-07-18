@@ -29,7 +29,7 @@ title: "Research"
 ## Working Papers
 
 <ol>
-<li><p><a href="/assets/Seeding Rate Response.pdf"><b>Seeding Rate Responses to Markets, Resources and Technologies</b></a>. <b>Yuyuan Che</b>, David A. Hennessy, and Hongli Feng. </p>
+<li><p><b>Seeding Rate Responses to Markets, Resources and Technologies</b>. <b>Yuyuan Che</b>, David A. Hennessy, and Hongli Feng. </p>
 
 <p><b>Abstract:</b> Corn and soybean seeding rates in the United States have moved in opposite directions over recent decades, with the former trending upward and the latter trending downward. Such different trends provide interesting opportunities to better understand how farmers’ seeding rate choices respond to market, resource, and technological factors. We develop a theoretical model of seeding rate choices by incorporating a resource budget trade-off between seeds and resources allocated to each seed. With a large and detailed U.S. farm-level market dataset over twenty years, we find the soybean seeding rate choice to be more price elastic than that for corn. Specifically, the seeding rate for soybean would decrease by 15% more than that for corn in response to a 10% increase in seed price or 10% decrease in crop price. Furthermore, more land-embodied inputs (e.g., soil nutrients) increase both corn and soybean seeding rates; while more seed-embodied inputs (e.g., genetically engineered treatment) increase corn rates but decrease soybean rates. The difference in price elasticities across crops due to different plant architectures has consequential implications, including for division of economic surplus arising from innovations and for the outcomes of policy incentives intended to mitigate the negative ecological impacts from seed use. </p></li>
 
