@@ -31,6 +31,8 @@ title: "Research"
 ## Working Papers
 
 1. Seeding Rate Responses to Markets, Resources and Technologies. (with David A. Hennessy, and Hongli Feng)
+   
+1. Landscape Complexity, Crop Insurance Losses, and Resilience to Extreme Weather Events. (with Roderick M. Rejesus, Serkan Aglasan, and Emily K. Burchfield)
 
 1. Estimating Stochastic Production Functions with Linear Inequality Constraints. (with Sujit K. Ghosh, and Roderick M. Rejesus)
 
@@ -42,7 +44,7 @@ title: "Research"
 
 1. Irrationality of Recency Effects on U.S. Crop Insurance Program Participation. (with Hongli Feng and David A. Hennessy) 
 
-1. Landscape Complexity, Crop Insurance Losses, and Resilience to Extreme Weather Events.
+1. Crop Insurance Participation and Landscape Complexity (with Roderick M. Rejesus, Serkan Aglasan, and Emily K. Burchfield)
 
 1. Payments from Agricultural Conservation Programs and No-Till Adoption.
 
