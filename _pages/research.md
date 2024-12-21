@@ -8,7 +8,7 @@ title: "Research"
 
 ## Peer-Reviewed Publications
 
-1. Zhang, Y., **Y. Che**, R.M. Rejesus, M. Cavigelli, K. White, S. Aglasan, L.G. Knight, C. Dell, D. Hollinger, and E.D. Lane. 2023. **Medium-term economic impacts of cover crop adoption in Maryland.*<ins>Soil Security</ins>*** 13: 100103. [Link](https://doi.org/10.1016/j.soisec.2023.100103](https://doi.org/10.1016/j.soisec.2024.100170)
+1. Zhang, Y., **Y. Che**, R.M. Rejesus, M. Cavigelli, K. White, S. Aglasan, L.G. Knight, C. Dell, D. Hollinger, and E.D. Lane. 2024. **Medium-term economic impacts of cover crop adoption in Maryland. *<ins>Soil Security</ins>*** 17: 100170. [Link](https://doi.org/10.1016/j.soisec.2023.100103](https://doi.org/10.1016/j.soisec.2024.100170)
    
 1. **Che, Y.**, H. Feng, and D. A. Hennessy. 2023. **Will Adoption Occur if a Practice is Win-Win for Profit and the Environment? An Application to a Rancher’s Grazing Practice Choices. *<ins>Ecological Economics</ins>*** 209: 107826. [Link](https://doi.org/10.1016/j.ecolecon.2023.107826)
 
