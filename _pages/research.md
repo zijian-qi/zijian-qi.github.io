@@ -32,7 +32,7 @@ title: "Research"
   
 ## Working Papers
    
-1. Landscape Complexity, Crop Insurance Losses, and Resilience to Extreme Weather Events. (with Roderick M. Rejesus, Serkan Aglasan, and Emily K. Burchfield)
+1. Landscape Complexity Mitigates Weather-Related Crop Insurance Losses and Enhances Climate Resilience. (with Roderick M. Rejesus, Serkan Aglasan, and Emily K. Burchfield)
 
 1. On Whether and Where Private-Excess Nitrogen Application Occurs in U.S. Maize Production: Evidence, Price Responsiveness, and Efficiency. (with Hongli Feng, David A. Hennessy, and Chaoqun Lu) 
 
