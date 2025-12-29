@@ -33,6 +33,10 @@ title: "Research"
 ## Working Papers
    
 1. Landscape Complexity Mitigates Weather-Related Crop Insurance Losses and Enhances Climate Resilience. (with Roderick M. Rejesus, Serkan Aglasan, and Emily K. Burchfield)
+   
+1. <a href="https://yuyuanche.com/research/">
+Whether and Where Nitrogen Overapplication Occurs in U.S. Maize Production: Profit Benchmarks, Price Responses, and Environmental Trade-offs
+</a> (with Hongli Feng, David A. Hennessy, and Chaoqun Lu) 
 
 1. Whether and Where Nitrogen Overapplication Occurs in U.S. Maize Production: Profit Benchmarks, Price Responses, and Environmental Trade-offs. (with Hongli Feng, David A. Hennessy, and Chaoqun Lu) 
 
