@@ -22,7 +22,7 @@ title: "Research"
 
 1. **Che, Y.**, H. Feng, and D. A. Hennessy. 2022.  **Assessing Peer Effects and Subsidy Impacts in Conservation Technology Adoption: Application to Grazing Management Choices**. _Journal of the Agricultural and Applied Economics Association_ 1(3): 285–303. [Link](https://doi.org/10.1002/jaa2.26)  
 
-1. Hennessy, D. A., A. J. Lindsey, **Y. Che**, L. E. Lindsey, M. P. Singh, H. Feng, E. M. Hawkins, S. Subburayalu, R. Black, E. A. Richer, and D. S. Ochs. 2022. **Characterizing the Decision Process in Setting Corn and Soybean Seeding Rates**. _The Journal of Extension_ 60(1): 3. [Link](https://doi.org/10.34068/joe.60.01.03)
+1. Hennessy, D. A., A. J. Lindsey, **Y. Che**, L. E. Lindsey, M. P. Singh, H. Feng, E. M. Hawkins, S. Subburayalu, R. Black, E. A. Richer, and D. S. Ochs. 2022. **Characterizing the Decision Process in Setting Corn and Soybean Seeding Rates**. _Journal of Extension_ 60(1): 3. [Link](https://doi.org/10.34068/joe.60.01.03)
 
 1. **Che, Y.**, H. Feng, and D. A. Hennessy. 2020. **Recency Effects and Participation at the Extensive and Intensive Margins in the U.S. Federal Crop Insurance Program**. _The Geneva Papers on Risk and Insurance-Issues and Practice_ 45(1): 52-85. [Link](https://doi.org/10.1057/s41288-019-00147-5) 
 
