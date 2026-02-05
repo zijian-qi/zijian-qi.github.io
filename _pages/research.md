@@ -42,5 +42,5 @@ title: "Research"
 
 1. <a href="https://yuyuanche.com/research/#working-papers"> Cover Crops and Climate Risks: An Application of Causal Random Forests</a> (with David Quigley, Mahmut Yasar, and Roderick M. Rejesus)
 
-1. <a href="https://yuyuanche.com/research/#working-papers"> An Economic Analysis of Climate Resilience of Irrigated Cotton-Based Cropping Systems in the Texas High Plains Region</a> (with Reymark Alcantara, Chenggang Wang, Phil Johnson)
+1. <a href="https://yuyuanche.com/research/#working-papers"> An Economic Analysis of Climate Resilience of Irrigated Cotton-Based Cropping Systems in the Texas High Plains Region</a> (with Reymark Alcantara, Chenggang Wang, Wenxuan Guo, Phil Johnson)
 
