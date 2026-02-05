@@ -38,18 +38,9 @@ title: "Research"
 1. <a href="https://yuyuanche.com/research/#working-papers"> Whether and Where Nitrogen Overapplication Occurs in U.S. Maize Production: Profit Benchmarks, Price Responses, and Environmental Trade-offs
 </a> (with Hongli Feng, David A. Hennessy, and Chaoqun Lu) 
 
-1. Estimating Stochastic Production Functions with Linear Inequality Constraints. (with Sujit K. Ghosh, and Roderick M. Rejesus)
+1. <a href="https://yuyuanche.com/research/#working-papers"> Estimating Stochastic Production Functions with Linear Inequality Constraints</a> (with Sujit K. Ghosh, and Roderick M. Rejesus)
 
-1. Cover Crops and Climate Risks: An Application of Causal Random Forests. (with David Quigley, Mahmut Yasar, and Roderick M. Rejesus)
+1. <a href="https://yuyuanche.com/research/#working-papers"> Cover Crops and Climate Risks: An Application of Causal Random Forests</a> (with David Quigley, Mahmut Yasar, and Roderick M. Rejesus)
 
-1. An Economic Analysis of Climate Resilience of Irrigated Cotton-Based Cropping Systems in the Texas High Plains Region. (with Reymark Alcantara, Chenggang Wang, Phil Johnson)
+1. <a href="https://yuyuanche.com/research/#working-papers"> An Economic Analysis of Climate Resilience of Irrigated Cotton-Based Cropping Systems in the Texas High Plains Region</a> (with Reymark Alcantara, Chenggang Wang, Phil Johnson)
 
-## Work in Progress
-
-1. Irrationality of Recency Effects on U.S. Crop Insurance Program Participation. (with Hongli Feng and David A. Hennessy) 
-
-1. Crop Insurance Participation and Landscape Complexity (with Roderick M. Rejesus, Serkan Aglasan, and Emily K. Burchfield)
-
-1. Federal Crop Insurance Participation and Irrigation Water Use in U.S. Agriculture (with Reymark Alcantara)
-
-1. Optimizing Irrigation for Cotton Profitability in Texas High Plains (with Dany Résolus, Reymark Alcantara, Chenggang Wang, Wenxuan Guo, and Oluwatola Adedeji)
