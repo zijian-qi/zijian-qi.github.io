@@ -8,7 +8,7 @@ title: "Research"
 
 ## Peer-Reviewed Publications
 
-1. **Che, Y.**, D. A. Hennessy, and H. Feng. 2025. **Seeding Rate Responses to Markets, Resources and Technologies.** _Journal of Agricultural and Resource Economics_ (forthcoming) [Link](http://dx.doi.org/10.22004/ag.econ.356157)
+1. **Che, Y.**, D. A. Hennessy, and H. Feng. 2025. **Seeding Rate Responses to Markets, Resources and Technologies.** _Journal of Agricultural and Resource Economics_50(3):487-507. [Link](https://jareonline.org/articles/seeding-rate-responses-to-markets-resources-and-technologies/)
 
 1. Zhang, Y., **Y. Che**, R.M. Rejesus, M. Cavigelli, K. White, S. Aglasan, L.G. Knight, C. Dell, D. Hollinger, and E.D. Lane. 2024. **Medium-term economic impacts of cover crop adoption in Maryland**. _Soil Security_ 17: 100170. [Link](https://doi.org/10.1016/j.soisec.2024.100170)
    
