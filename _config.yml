@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "YUYUAN CHE"
+title                    : "ZIJIAN QI"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Yuyuan Che"
-description              : "Personal website of Yuyuan Che"
+name                     : "Zijian Qi"
+description              : "Personal website of Zijian Qi"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuyuan Che"
+  name             : "Zijian Qi"
   avatar           : "/assets/images/biophoto20231104.jpg"
   bio              : "\ 
     Assistant Professor \ \n
