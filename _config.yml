@@ -113,9 +113,9 @@ author:
   location         : # "Lubbock, TX"
   email            : # "yuyuan.che@ttu.edu"
   links:
-    - label: "yuyuan.che@ttu.edu"
+    - label: "ziqi@ttu.edu"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:yuyuan.che@ttu.edu"
+      url: "mailto:ziqi@ttu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -133,7 +133,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Google Scholar"
       icon: "fab fa-google"
-      url: "https://scholar.google.com/citations?user=o8QxH30AAAAJ&hl=en&oi=ao"
+      #url: "https://scholar.google.com/citations?user=o8QxH30AAAAJ&hl=en&oi=ao"
 
       
 # Site Footer
