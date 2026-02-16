@@ -111,7 +111,7 @@ author:
     Department of Economics \ \n
     Texas Tech University "
   location         : # "Lubbock, TX"
-  email            : # "yuyuan.che@ttu.edu"
+  email            : # "ziqi@ttu.edu"
   links:
     - label: "ziqi@ttu.edu"
       icon: "fas fa-fw fa-envelope-square"
@@ -159,7 +159,7 @@ footer:
       # url:
     - label: "Google Scholar"
       icon: "fab fa-google"
-      url: "https://scholar.google.com/citations?user=o8QxH30AAAAJ&hl=en&oi=ao"
+      #url: "https://scholar.google.com/citations?user=o8QxH30AAAAJ&hl=en&oi=ao"
 
 # Reading Files
 include:
