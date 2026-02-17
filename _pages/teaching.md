@@ -7,11 +7,13 @@ title: "Teaching"
 ---
 
 ## Teaching Experience
-<b>Instructor</b>, Applied Mathematical Economics (AAEC 5301-019), Texas Tech University, Fall 2025
+<b>Instructor</b>, Economic Policy: Applied Econometrics (ECO5325), Texas Tech University, Spring 2026
 
-<b>Instructor</b>, Applied Risk Analysis and Management (AAEC 3316), Texas Tech University, Spring 2024, Fall 2024, Spring 2025, Fall 2025
+<b>Instructor</b>, Intermediate Economic Theory (ECO3301), Texas Tech University, Spring 2026
 
-<b>Instructor</b>, Data Analysis for the Agri-Food System (ABM 203), Michigan State University, Spring 2020 
+<b>Instructor</b>, Intermediate Economic Theory (ECO3312), Texas Tech University, Spring 2025, Fall 2025
 
-<b>Teaching Assistant</b>, Comparative Study on Environmental Regulation and Legislation (02516040), Peking University, Fall 2014 
+<b>Instructor</b>, Intermediate Microeconomics (EC301)， Michigan State University, Summer 2018
+
+<b>Teaching Assistant</b>, Microeconomics I (EC812A), Michigan State University, Fall 2018, Fall 2019, Fall 2020, Fall 2021 
 
