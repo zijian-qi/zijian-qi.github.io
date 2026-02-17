@@ -6,8 +6,8 @@ classes: wide
 # title: "Home"
 ---
 
-Welcome to my website! I am an assistant professor in the [Department of Economics](https://www.depts.ttu.edu/aaec/) at [Texas Tech University](https://www.ttu.edu/).
+Welcome to my website! I am an assistant professor in the [Department of Economics](https://www.depts.ttu.edu/economics/) at [Texas Tech University](https://www.ttu.edu/).
 
-I work in applied economics at the intersection of agriculture and the environment, with a particular emphasis on technology adoption, sustainability, and risk management. I am interested in analyzing the economic, psychological, and social information management dimensions of production choices in row-crop and grass-based agriculture. The objectives of my research are to provide information and identify policies that improve both economic profits and environmental management outcomes.
+My research lies in microeconomic theory and applied microeconomics, with a particular focus on organizational design, information aggregation, and decision-making under heterogeneous expertise. My work combines formal theoretical modeling with empirical motivation, aiming to provide tractable frameworks for understanding how organizations allocate influence and process information.
 
-<b>Research Interests:</b> Production Economics, Risk Analysis and Management, Behavioral Economics, Environmental Economics
+<b>Research Interests:</b> Applied Microeconomics, Microeconomic Theory, Economics of Telecommunication
