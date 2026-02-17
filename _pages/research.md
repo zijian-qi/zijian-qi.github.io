@@ -8,7 +8,7 @@ title: "Research"
 
 ## Peer-Reviewed Publications
 
-1. Optimal Job Design and Information Elicitation (with Arijit Mukherjee and Luis Vasconcelos) _RAND Journal of Economics_, forthcoming.
+1. Optimal Job Design and Information Elicitation (with Arijit Mukherjee and Luis Vasconcelos), _RAND Journal of Economics_, forthcoming.
   
 ## Working Papers
    
