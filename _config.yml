@@ -16,7 +16,8 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ZIJIAN QI"
+title                    : "Zijian Qi"
+subtitle                 : "Zijian Qi's Personal Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Zijian Qi"
