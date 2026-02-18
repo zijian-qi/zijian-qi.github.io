@@ -12,4 +12,4 @@ I am an assistant professor in the [Department of Economics](https://www.depts.t
 
 My research lies in microeconomic theory and applied microeconomics, with a particular focus on organizational design, information aggregation, and decision-making under heterogeneous expertise. My work combines formal theoretical modeling with empirical motivation, aiming to provide tractable frameworks for understanding how organizations allocate influence and process information.
 
-<b>Research Interests:</b> Applied Microeconomics, Microeconomic Theory, Economics of Telecommunication
+<b>Research Interests:</b> Applied Microeconomics, Microeconomic Theory, Economics of Information Communication and Telecommunication
