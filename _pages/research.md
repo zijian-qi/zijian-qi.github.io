@@ -12,7 +12,7 @@ title: "Research"
   
 ## Working Papers
    
-1. <a href="/assets/WP/202602Title.pdf"> Why Titles Matter: Influence and Optimal Hierarchy Depth
+1. <a href="/assets/WP/202603Title.pdf"> Titles as Signals of Expertise: Information Aggregation and Hierarchy Depth
 </a> 
    
 1. <a href="https://zijianqi.com/research/#working-papers"> Contests with Valuation associated with Population Uncertainty
