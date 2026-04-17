@@ -113,14 +113,14 @@ author:
     Department of Economics \ \n
     Texas Tech University "
   location         : # "Lubbock, TX"
-  email            : # "ziqi@ttu.edu"
+  email            : # "Zijian.Qi@ttu.edu"
   links:
-    - label: "ziqi@ttu.edu"
+    - label: "Zijian.Qi@ttu.edu"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ziqi@ttu.edu"
+      url: "mailto:Zijian.Qi@ttu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://zijianqi.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
